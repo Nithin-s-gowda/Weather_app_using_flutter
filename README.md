@@ -20,6 +20,8 @@
 4. then run the app with android emulator
 
 all the best!
-<img src="![image](https://github.com/user-attachments/assets/f959f157-ef42-4b29-b6d5-27ab40cdb8d4)" alt="app screenshot" width="300" height="200">
-<img src="![image](https://github.com/user-attachments/assets/7c823a8b-84c7-49ae-a3d2-6c838ae4ef53)" alt="app screenchot" width="300" height="200">
+<img src="![image](https://github.com/user-attachments/assets/ec9c8f19-8819-45f9-9f6c-3304e22ecc2d)
+" alt="app screenshot" width="300" height="200">
+<img src="![image](https://github.com/user-attachments/assets/53037e33-48a7-4c66-b96f-49ebe94da203)
+" alt="app screenchot" width="300" height="200">
 
