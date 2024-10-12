@@ -20,8 +20,7 @@
 4. then run the app with android emulator
 
 all the best!
-<img src="https://github.com/user-attachments/assets/ec9c8f19-8819-45f9-9f6c-3304e22ecc2d
-" alt="app screenshot" width="300" height="200">
-<img src="https://github.com/user-attachments/assets/53037e33-48a7-4c66-b96f-49ebe94da203
-" alt="app screenchot" width="300" height="200">
+
+![WhatsApp Image 2024-10-13 at 02 57 04_3e2a71dc](https://github.com/user-attachments/assets/cab8bb23-bab4-4969-bb1f-a94af1540a68)
+![WhatsApp Image 2024-10-13 at 02 56 57_f18e3279](https://github.com/user-attachments/assets/09a2d4ce-a7f6-4997-914f-801835b70090)
 
